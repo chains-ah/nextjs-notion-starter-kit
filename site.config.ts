@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'My Blog.',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
